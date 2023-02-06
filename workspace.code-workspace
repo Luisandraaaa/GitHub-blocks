@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../yellowbelt"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "yellowbelt"
+	}
+}
